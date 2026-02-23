@@ -1,9 +1,14 @@
 # Práctica IA (RA4 · a) — Automatización y optimización
 
 ## 1) Proceso elegido
-- Nombre del proceso:
+- Nombre del proceso: Detección de fraude
 - Contexto (empresa/servicio web/IT):
+  es un conjunto de estrategias, tecnologías y procedimientos diseñados para identificar, prevenir y
+  responder a actividades sospechosas dentro de plataformas digitales
 - Rol/es implicados:
+  Equipo de Riesgo
+  Data & Machine Learning
+  Ingeniería
 
 ## 2) ANTES (sin IA)
 - Pasos (5–7):

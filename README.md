@@ -101,8 +101,8 @@ Se considera Big Data por cumplir las **3V**:
           |
           v
 +-------------------+
-| Limpieza y        |
-| Transformación    |
+|     Limpieza y    |
+|    Transformación |
 +-------------------+
           |
           v
@@ -129,7 +129,6 @@ Se considera Big Data por cumplir las **3V**:
 | y Fidelización    |
 +-------------------+
 ```
-
 ## 7) Riesgos y mitigación
 Riesgo 1:
 - Cumplimiento de RGPD, anonimización y consentimiento explícito.

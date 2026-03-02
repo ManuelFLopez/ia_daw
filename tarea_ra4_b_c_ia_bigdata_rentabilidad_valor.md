@@ -151,8 +151,8 @@ Riesgo 2:
 - Coste de infraestructura tecnológica.
 - Regulación (protección de datos).
 - Ética y sesgos algorítmicos.
+- Impacto en el empleo y necesidad de formación.
 
-Impacto en el empleo y necesidad de formación.
 - Conclusión razonada:
 - La IA no es solo una herramienta tecnológica, sino un factor estratégico de competitividad. Su correcta implementación permite mejorar la rentabilidad, reducir riesgos y crear ventajas sostenibles a largo plazo.
 

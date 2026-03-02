@@ -82,9 +82,8 @@ Se considera Big Data por cumplir las **3V**:
 - **Mejora:** Mayor fidelización y reducción del coste de adquisición de clientes.
 
 ## 6) Diagrama del pipeline (ASCII o Mermaid)
-```mermaid
-flowchart TD
 
+```mermaid
 A[Usuarios Web/App] --> B[Captura de Eventos<br/>(Tracking en tiempo real)]
 B --> C[Data Lake<br/>(Datos en bruto)]
 C --> D[Limpieza y Transformación<br/>(ETL/ELT)]

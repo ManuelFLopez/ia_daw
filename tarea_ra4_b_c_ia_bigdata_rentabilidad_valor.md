@@ -2,7 +2,7 @@
 
 ## 1) Caso y objetivo de negocio
 
-- **Empresa/sector (real o ficticia):** NTTDATA (empresa ficticia de comercio electrónico)
+- **Empresa/sector (real o ficticia):** NeoTech (empresa ficticia de comercio electrónico)
 - **Problema a resolver:** Alta tasa de abandono de carrito y bajo índice de recompra.
 - **Objetivo de negocio (rentabilidad):** Aumentar ventas y mejorar la fidelización de clientes mediante recomendaciones personalizadas basadas en IA.
 
@@ -82,7 +82,53 @@ Se considera Big Data por cumplir las **3V**:
 - **Mejora:** Mayor fidelización y reducción del coste de adquisición de clientes.
 
 ## 6) Diagrama del pipeline (ASCII o Mermaid)
-(Pega aquí el diagrama)
+```
++-------------------+
+|  Usuarios Web/App |
++-------------------+
+          |
+          v
++-------------------+
+| Captura de        |
+| Eventos (Tracking)|
++-------------------+
+          |
+          v
++-------------------+
+|      Data Lake    |
+| (Datos en bruto)  |
++-------------------+
+          |
+          v
++-------------------+
+| Limpieza y        |
+| Transformación    |
++-------------------+
+          |
+          v
++-------------------+
+|  Data Warehouse   |
+| (Datos procesados)|
++-------------------+
+          |
+          v
++-------------------+
+|   Modelo IA       |
+| Recomendador      |
++-------------------+
+          |
+          v
++-------------------+
+| Recomendaciones   |
+| Personalizadas    |
++-------------------+
+          |
+          v
++-------------------+
+| Aumento de Ventas |
+| y Fidelización    |
++-------------------+
+```
 
 ## 7) Riesgos y mitigación
 Riesgo 1:

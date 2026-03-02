@@ -146,11 +146,12 @@ Riesgo 2:
 - La inteligencia artificial (IA) en los próximos 3 a 5 años (2026-2029) dejará de ser una herramienta experimental para convertirse en la columna vertebral operativa y estratégica de los negocios. Se espera que esta tecnología transforme la productividad, automatizando hasta el 30% de las horas laborales actuales para 2030, y cambie el enfoque de la adopción de IA de "copilotos" (asistentes) a "agentes" autónomos que ejecutan tareas completas.
 
 - Condiciones/limitaciones (datos, costes, regulación, ética, seguridad, empleo):
--- Calidad y cantidad de datos.
--- Coste de infraestructura tecnológica.
--- Regulación (protección de datos).
--- Ética y sesgos algorítmicos.
--- Impacto en el empleo y necesidad de formación.
+
+- Calidad y cantidad de datos.
+- Coste de infraestructura tecnológica.
+- Regulación (protección de datos).
+- Ética y sesgos algorítmicos.
+- Impacto en el empleo y necesidad de formación.
 
 - Conclusión razonada:
 La IA no es solo una herramienta tecnológica, sino un factor estratégico de competitividad. Su correcta implementación permite mejorar la rentabilidad, reducir riesgos y crear ventajas sostenibles a largo plazo.

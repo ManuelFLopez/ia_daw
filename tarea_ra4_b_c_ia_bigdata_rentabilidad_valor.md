@@ -154,7 +154,7 @@ Riesgo 2:
 - Impacto en el empleo y necesidad de formación.
 
 - Conclusión razonada:
-- La IA no es solo una herramienta tecnológica, sino un factor estratégico de competitividad. Su correcta implementación permite mejorar la rentabilidad, reducir riesgos y crear ventajas sostenibles a largo plazo.
+La IA no es solo una herramienta tecnológica, sino un factor estratégico de competitividad. Su correcta implementación permite mejorar la rentabilidad, reducir riesgos y crear ventajas sostenibles a largo plazo.
 
 ## 9) Fuentes oficiales (mín. 2)
 

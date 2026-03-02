@@ -113,7 +113,6 @@ Impacto en el empleo y necesidad de formación.
 ## 9) Fuentes oficiales (mín. 2)
 
 - Big Data/analítica (enlace oficial):
-- https://www.ibm.com/topics/big-data
-  
+  https://www.ibm.com/topics/big-data
 - IA/técnica/modelo (enlace oficial):
-- https://www.ibm.com/topics/machine-learning
+  https://www.ibm.com/topics/machine-learning

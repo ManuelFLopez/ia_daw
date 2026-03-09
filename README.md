@@ -1,82 +1,131 @@
 # Práctica IA (RA4 · d+e) — Sectores con implantación relevante y lenguajes de programación en IA
 
 ## 1) Introducción
-- Objetivo de la práctica:
-- Relación con DAW/DAM:
+**Objetivo de la práctica:**  
+Analizar algunos sectores donde la Inteligencia Artificial (IA) tiene una implantación importante y estudiar los lenguajes de programación más utilizados para desarrollar aplicaciones de IA.
 
-## 2) Sectores con implantación relevante de IA
+**Relación con DAW/DAM:**  
+Los desarrolladores de aplicaciones web (DAW) y multiplataforma (DAM) cada vez utilizan más servicios de IA para mejorar sus aplicaciones. Por ejemplo, sistemas de recomendación, chatbots, análisis de datos o reconocimiento de imágenes.
 
-### Sector 1
-- Nombre del sector:
-- Tipo de empresa/servicio:
-- Aplicación de IA:
-- Qué tarea mejora o automatiza:
-- Por qué la IA tiene implantación relevante en este sector:
-- Beneficios que aporta:
+---
 
-### Sector 2
-- Nombre del sector:
-- Tipo de empresa/servicio:
-- Aplicación de IA:
-- Qué tarea mejora o automatiza:
-- Por qué la IA tiene implantación relevante en este sector:
-- Beneficios que aporta:
+# 2) Sectores con implantación relevante de IA
 
-### Sector 3
-- Nombre del sector:
-- Tipo de empresa/servicio:
-- Aplicación de IA:
-- Qué tarea mejora o automatiza:
-- Por qué la IA tiene implantación relevante en este sector:
-- Beneficios que aporta:
+## Sector 1
+- **Nombre del sector:** Salud  
+- **Tipo de empresa/servicio:** Hospitales, clínicas, laboratorios médicos  
+- **Aplicación de IA:** Diagnóstico asistido por IA mediante análisis de imágenes médicas  
+- **Qué tarea mejora o automatiza:** Detecta enfermedades en radiografías, resonancias o TAC  
+- **Por qué la IA tiene implantación relevante en este sector:** Permite analizar grandes cantidades de datos médicos con gran precisión  
+- **Beneficios que aporta:**  
+  - Diagnósticos más rápidos  
+  - Reducción de errores médicos  
+  - Apoyo a los profesionales sanitarios  
 
-## 3) Lenguajes de programación en IA
+---
 
-### Lenguaje 1
-- Nombre:
-- Uso principal en IA:
-- Ventajas:
-- Ejemplos de uso:
+## Sector 2
+- **Nombre del sector:** Comercio electrónico  
+- **Tipo de empresa/servicio:** Tiendas online, plataformas de venta digital  
+- **Aplicación de IA:** Sistemas de recomendación de productos  
+- **Qué tarea mejora o automatiza:** Sugiere productos a los usuarios según sus intereses  
+- **Por qué la IA tiene implantación relevante en este sector:** Las empresas manejan grandes volúmenes de datos sobre comportamiento de usuarios  
+- **Beneficios que aporta:**  
+  - Mejora la experiencia del cliente  
+  - Aumenta las ventas  
+  - Personalización de la plataforma  
 
-### Lenguaje 2
-- Nombre:
-- Uso principal en IA:
-- Ventajas:
-- Ejemplos de uso:
+---
 
-### Lenguaje 3
-- Nombre:
-- Uso principal en IA:
-- Ventajas:
-- Ejemplos de uso:
+## Sector 3
+- **Nombre del sector:** Transporte y movilidad  
+- **Tipo de empresa/servicio:** Empresas de transporte, movilidad urbana, vehículos autónomos  
+- **Aplicación de IA:** Sistemas de conducción autónoma y optimización de rutas  
+- **Qué tarea mejora o automatiza:** Control del vehículo, detección de obstáculos y planificación de rutas  
+- **Por qué la IA tiene implantación relevante en este sector:** La IA permite analizar datos del entorno en tiempo real  
+- **Beneficios que aporta:**  
+  - Mayor seguridad  
+  - Reducción del tráfico  
+  - Optimización del transporte  
 
-### Lenguaje 4
-- Nombre:
-- Uso principal en IA:
-- Ventajas:
-- Ejemplos de uso:
+---
 
-## 4) Relación entre sectores, tipo de IA y lenguaje
+# 3) Lenguajes de programación en IA
+
+## Lenguaje 1
+- **Nombre:** Python  
+- **Uso principal en IA:** Desarrollo de modelos de Machine Learning y Deep Learning  
+- **Ventajas:**  
+  - Gran número de librerías (TensorFlow, PyTorch, Scikit-learn)  
+  - Fácil de aprender  
+  - Gran comunidad de desarrolladores  
+- **Ejemplos de uso:**  
+  - Sistemas de recomendación  
+  - Análisis de datos  
+  - Chatbots  
+
+---
+
+## Lenguaje 2
+- **Nombre:** R  
+- **Uso principal en IA:** Análisis estadístico y ciencia de datos  
+- **Ventajas:**  
+  - Muy potente para análisis de datos  
+  - Muchas librerías estadísticas  
+- **Ejemplos de uso:**  
+  - Modelos predictivos  
+  - Análisis de datos científicos  
+
+---
+
+## Lenguaje 3
+- **Nombre:** Java  
+- **Uso principal en IA:** Aplicaciones empresariales con IA integrada  
+- **Ventajas:**  
+  - Alta estabilidad  
+  - Amplio uso en grandes empresas  
+- **Ejemplos de uso:**  
+  - Sistemas de recomendación en plataformas grandes  
+  - Aplicaciones backend con IA  
+
+---
+
+## Lenguaje 4
+- **Nombre:** C++  
+- **Uso principal en IA:** Sistemas que requieren alto rendimiento  
+- **Ventajas:**  
+  - Gran velocidad de ejecución  
+  - Control sobre el hardware  
+- **Ejemplos de uso:**  
+  - Sistemas de visión artificial  
+  - Robots y vehículos autónomos  
+
+---
+
+# 4) Relación entre sectores, tipo de IA y lenguaje
+
 | Sector | Aplicación de IA | Tipo de IA/técnica | Lenguaje recomendado | Justificación |
-|--------|------------------|--------------------|----------------------|---------------|
-|        |                  |                    |                      |               |
-|        |                  |                    |                      |               |
-|        |                  |                    |                      |               |
+|------|------|------|------|------|
+| Salud | Diagnóstico por imágenes | Visión artificial / Deep Learning | Python | Tiene librerías especializadas en IA médica |
+| Comercio electrónico | Recomendación de productos | Machine Learning | Python | Facilita el análisis de datos de usuarios |
+| Transporte | Conducción autónoma | Visión artificial y aprendizaje profundo | C++ | Necesita alto rendimiento y procesamiento rápido |
 
-## 5) Diagrama (ASCII o Mermaid)
-(Pega aquí el diagrama)
+---
 
-## 6) Riesgos y mitigación
-- Riesgo 1:
-- Mitigación 1:
-- Riesgo 2:
-- Mitigación 2:
+# 5) Diagrama (Mermaid)
 
-## 7) Conclusión
-- Qué sectores destacan más:
-- Qué lenguajes aparecen con más frecuencia:
-- Qué importancia tiene esto para DAW/DAM:
+```mermaid
+graph TD
+    IA[Inteligencia Artificial]
 
-## 8) Fuentes oficiales (mín. 2)
-- Fuente 1 (sectores / aplicación IA):
-- Fuente 2 (lenguajes / ecosistema técnico):
+    IA --> Salud
+    IA --> Comercio
+    IA --> Transporte
+
+    Salud --> Diagnostico[Diagnóstico con IA]
+    Comercio --> Recomendacion[Sistema de recomendación]
+    Transporte --> Autonomo[Vehículos autónomos]
+
+    Diagnostico --> Python
+    Recomendacion --> Python
+    Autonomo --> Cpp[C++]

@@ -129,3 +129,27 @@ graph TD
     Diagnostico --> Python
     Recomendacion --> Python
     Autonomo --> Cpp[C++]
+```
+---
+
+## 6) Riesgos y mitigación
+- Riesgo 1: Uso incorrecto o sesgado de los datos
+- Mitigación 1: Utilizar datasets variados y revisar los modelos regularmente
+- Riesgo 2: Problemas de privacidad de los usuarios
+- Mitigación 2: Aplicar normas de protección de datos y anonimización de la información
+---
+## 7) Conclusión
+- **Qué sectores destacan más:**
+  - Salud, comercio electrónico y transporte destacan por la gran cantidad de datos que generan y
+    por el impacto que puede tener la IA en mejorar sus servicios
+- **Qué lenguajes aparecen con más frecuencia:**
+  - Python es el lenguaje más utilizado en IA debido a su facilidad de uso y su gran ecosistema de librerías
+- **Qué importancia tiene esto para DAW/DAM:**
+  - Los desarrolladores web y multiplataforma pueden integrar IA en sus aplicaciones mediante APIs, análisis de datos o
+    sistemas inteligentes que mejoren la experiencia de los usuarios
+---
+## 8) Fuentes oficiales (mín. 2)
+- **Fuente 1 (sectores / aplicación IA):**
+  - https://digital-strategy.ec.europa.eu/en/policies/artificial-intelligence
+- **Fuente 2 (lenguajes / ecosistema técnico):**
+  - https://www.ibm.com/topics/artificial-intelligence

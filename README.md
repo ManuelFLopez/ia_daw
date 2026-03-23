@@ -44,3 +44,13 @@ flowchart LR
     M --> B
     B --> F
     F --> U
+```
+## 7) Riesgos
+- **Riesgo 1:** Uso indebido de datos personales
+- **Mitigación 1:** Anonimización, cumplimiento del RGPD y control de accesos
+- **Riesgo 2:** Recomendaciones sesgadas o poco precisas
+- **Mitigación 2:** Evaluación continua del modelo y actualización periódica
+
+## 8) Fuente
+- Documentación de IA y Machine Learning de IBM: https://www.ibm.com/topics/machine-learning
+- Recursos de aprendizaje sobre IA y datos de Microsoft en Microsoft Learn: https://learn.microsoft.com/en-us/training/paths/get-started-with-artificial-intelligence-on-azure/

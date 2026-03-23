@@ -1,40 +1,38 @@
-# Práctica IA (RA4 · a) — Automatización y optimización
+# Práctica IA (RA4 · f)
 
-## 1) Proceso elegido
-- Nombre del proceso:
-- Contexto (empresa/servicio web/IT):
-- Rol/es implicados:
+## 1) Caso de uso
+- Tipo de aplicación:
+- Problema:
+- Usuario:
 
-## 2) ANTES (sin IA)
-- Pasos (5–7):
-  1.
-  2.
-  3.
-  4.
-  5.
-- Tiempo aproximado por caso:
-- Problemas / cuellos de botella:
+## 2) Datos
+- Datos:
+- Tipo minería:
 
-## 3) DESPUÉS (con IA)
-- ¿Qué automatiza la IA?
-- ¿Qué queda para humanos?
-- Datos necesarios (tipos de datos, sin datos personales):
-- Modelo/técnica (NLP, clasificación, recomendación, visión, etc.):
+## 3) Pipeline
+- Recogida:
+- Limpieza:
+- Transformación:
+- Entrenamiento:
+- Predicción:
+- Uso:
 
-## 4) Optimización (mejora medible)
-Define 3 métricas con valores antes/después:
-- Tiempo:
-- Coste:
-- Calidad:
+## 4) Integración
+- Backend:
+- Frontend:
+- Flujo:
 
-## 5) Diagrama del flujo (ASCII o Mermaid)
-(Pega aquí el diagrama)
+## 5) Valor
+- Mejora:
+- Sin IA:
+- Rentabilidad:
 
-## 6) Riesgos y mitigación
+## 6) Diagrama
+
+## 7) Riesgos
 - Riesgo 1:
 - Mitigación 1:
 - Riesgo 2:
 - Mitigación 2:
 
-## 7) Fuente oficial
-- Enlace: 
+## 8) Fuente
